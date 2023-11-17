@@ -7,7 +7,7 @@ data reppository.
 
 1. Clone this repository.
 2. Navigate to the `covid19-data-analysis` folder.
-3. Run the 'covid_analysis.py' script.
+3. Run the `covid_analysis.py` script.
 
 ## Requirements 
 
