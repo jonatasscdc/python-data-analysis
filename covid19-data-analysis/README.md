@@ -6,10 +6,10 @@ data reppository.
 ## How to use
 
 1. Clone this repository.
-2. Navigate to the 'covid19-data-analysis' folder.
+2. Navigate to the `covid19-data-analysis` folder.
 3. Run the 'covid_analysis.py' script.
 
 ## Requirements 
 
 - Python 3
-- Libraries: 'pandas', 'matplotlib'
+- Libraries: `pandas`, `matplotlib`
